@@ -27,7 +27,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.Pdfulkar}}
+          github_user_name: ${{ github.Pdfulkar }}
               #  supported options:
     #  - palette:     A preset of color, one of [github, github-dark, github-light]
     #  - color_snake: Color of the snake
