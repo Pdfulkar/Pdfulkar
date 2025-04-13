@@ -83,7 +83,7 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/pratikfulkar)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/pdfulkar)
 
-![Snake Animation](https://github.com/Pdfulkar/Pdfulkar/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Pdfulkar&label=Profile+Views+👀&color=12&icon=5&pretty=true" />
