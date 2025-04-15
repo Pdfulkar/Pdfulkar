@@ -6,7 +6,6 @@
 </div>
 
 ---
----
 
 ## 🛠️ **Technical Arsenal**
 
@@ -83,5 +82,5 @@
 [![Portfolio](https://img.shields.io/badge/-PORTFOLIO_SITE-4CAF50?style=for-the-badge)](https://pdfulkar.github.io/PortFolio_Site/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/pratikfulkar)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/pdfulkar)
-
+---
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Pdfulkar/Pdfulkar/output/github-contribution-grid-snake-dark.svg" />
