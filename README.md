@@ -6,6 +6,7 @@
 </div>
 
 ---
+---
 
 ## 🛠️ **Technical Arsenal**
 
