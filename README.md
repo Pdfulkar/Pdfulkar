@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Pratik+Fulkar;Python+Developer+💻;Data+Analyst+📊;IoT+Enthusiast+🔌;Open+Source+Contributor+❤️" alt="Typing SVG" />
   
   [![LinkedIn](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pratik-fulkar)
