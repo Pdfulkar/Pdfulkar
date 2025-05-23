@@ -1,5 +1,5 @@
  <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Pratik+Fulkar+;Python+Developer+%F0%9F%92%BB+;Data+Analyst+%F0%9F%93%8A+;IoT+Enthusiast+%F0%9F%94%8C)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Pratik+Fulkar+;Python+Developer+%F0%9F%92%BB+;Data+Analyst+%F0%9F%93%8A+;IoT+Enthusiast+%F0%9F%94%8C" alt="Typing SVG" /></a>
   
   [![LinkedIn](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pratik-fulkar)
   [![Email](https://img.shields.io/badge/-HIRE_ME!-critical?style=for-the-badge&logo=gmail)](mailto:pratik.fulkar2001@gmail.com)
