@@ -84,5 +84,8 @@
 [![Portfolio](https://img.shields.io/badge/-PORTFOLIO_SITE-4CAF50?style=for-the-badge)](https://pdfulkar.github.io/PortFolio_Site/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/pratikfulkar)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/pdfulkar)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratikfulkar)
+[![HugginFaces](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](https://huggingface.co/pdfulkar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratik.fulkar2001@gmail.com)
 ---
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Pdfulkar/Pdfulkar/output/github-contribution-grid-snake-dark.svg" />
