@@ -71,8 +71,8 @@
 ## 📈 **GitHub Analytics**
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pdfulkar" alt="GitHub Streak" /></a></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pdfulkar&hide_border=true&show_icons=true&theme=radical"></br>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pdfulkar" alt="GitHub Streak" /></a></a>
+   --><img src="https://github-readme-stats.vercel.app/api?username=Pdfulkar&hide_border=true&show_icons=true&theme=radical"></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdfulkar&hide_border=true&layout=compact&theme=vision-friendly-dark">
 </div>
 
